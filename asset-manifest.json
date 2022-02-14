@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sau/static/css/main.5b2087db.css",
+    "main.js": "/sau/static/js/main.689df860.js",
+    "static/media/cta-bg.jpg": "/sau/static/media/cta-bg.314069eaf3191d75946a.jpg",
+    "static/media/why-us.png": "/sau/static/media/why-us.0b38b56dc7642af4e0af.png",
+    "static/media/hero-img.png": "/sau/static/media/hero-img.593960b6732e1ce54f2b.png",
+    "static/media/skills.png": "/sau/static/media/skills.d55a75f7c955e52bc346.png",
+    "index.html": "/sau/index.html",
+    "main.5b2087db.css.map": "/sau/static/css/main.5b2087db.css.map",
+    "main.689df860.js.map": "/sau/static/js/main.689df860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2087db.css",
+    "static/js/main.689df860.js"
+  ]
+}
